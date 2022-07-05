@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d0bf8c5-787d-40ab-b0f9-884e96c0ef4f" name="Changes" comment="">
+    <list default="true" id="0d0bf8c5-787d-40ab-b0f9-884e96c0ef4f" name="Changes" comment="feat: implement exercicio 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio4.java" afterDir="false" />
@@ -99,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656943915124</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: implement exercicio 4">
+      <created>1657063475516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657063475516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: implement exercicio 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implement exercicio 4" />
   </component>
 </project>

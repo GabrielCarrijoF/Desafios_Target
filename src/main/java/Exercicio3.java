@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercicio3 {
@@ -9,6 +10,7 @@ public class Exercicio3 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        scanner.useLocale(Locale.US);
 
         System.out.println("Qual mês que deseja guardar as informações: ");
         String mes = scanner.next();
@@ -20,7 +22,7 @@ public class Exercicio3 {
 
         for (int i = 0; i < dias; i++) {
             System.out.printf("Informe valor do %2d dia de faturamento do mês " + mes + " :", (i + 1), dias);
-            vetor[i] = scanner.nextDouble();
+            vetor[i] = scanner. nextDouble();
         }
 
 
