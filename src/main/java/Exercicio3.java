@@ -22,7 +22,7 @@ public class Exercicio3 {
 
         for (int i = 0; i < dias; i++) {
             System.out.printf("Informe valor do %2d dia de faturamento do mês " + mes + " :", (i + 1), dias);
-            vetor[i] = scanner. nextDouble();
+            vetor[i] = scanner.nextDouble();
         }
 
 
