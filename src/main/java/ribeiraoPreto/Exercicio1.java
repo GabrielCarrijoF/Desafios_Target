@@ -1,5 +1,6 @@
-public class Exercicio1 {
+package ribeiraoPreto;
 
+public class Exercicio1 {
     public static void main(String[] args) {
 
         int indice = 13, soma = 0, k = 0;
@@ -11,3 +12,4 @@ public class Exercicio1 {
         System.out.println("Valor da variável soma será igual a: " + soma);
     }
 }
+
