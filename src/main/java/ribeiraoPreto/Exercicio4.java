@@ -12,7 +12,31 @@ package ribeiraoPreto;
 
 public class Exercicio4 {
 
-    int distancia = 100;
-    int  carro = 110;
-    int caminhão = 80;
+
+    /*
+    * Franca ---------------- Ribirão
+    *   0           ->          100
+    *
+    * Cheguei a conclusão que precisamos usar a formula do espaço
+    *
+    * s1 = s01 + v2 * d.t
+    *                       Neste cado considerei o tempo o mesmo pelo fato
+    *                       de sairem ao mesmo tempo cada um na sua respectiva cidade.
+    *
+    *                       Tambem temos informação que o o tempo deles seram iguais quando s1 = s2
+    * s2 = s02 + v1 * d.t
+    *
+    * Sendo assim temos
+    *   s01 + v1 * t = s02 + v2 * t
+    *
+    *   Calculando:
+    *       0 + 80 / v1 * t = 100 -110/v2 * t2 = t 100/190 = 10/19 horas
+    *
+    *       s1 || s2 = 0 + 80 > 10/19 ~= 42 km
+    *
+    *       Jogando neste calculo se for > 50 estara mais proximo de ribeirao
+    *       Sabendo tambem que o caminhao perdeu 10 minutos de pedagio o carro estaria mais proximo de ribeirao
+    *
+    *
+    * */
 }

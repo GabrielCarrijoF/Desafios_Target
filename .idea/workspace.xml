@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d0bf8c5-787d-40ab-b0f9-884e96c0ef4f" name="Changes" comment="refactor: add locale US">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio4.java" afterDir="false" />
+    <list default="true" id="0d0bf8c5-787d-40ab-b0f9-884e96c0ef4f" name="Changes" comment="refactor: exercicio 4 e 5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/saoPaulo/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/saoPaulo/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/saoPaulo/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/saoPaulo/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/saoPaulo/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ribeiraoPreto/Exercicio4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657063796649</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactor: test target ribeirao">
+      <created>1657324100516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657324100516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: implement exercicio 4" />
     <MESSAGE value="refactor: add locale US" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: add locale US" />
+    <MESSAGE value="refactor: test target ribeirao" />
+    <MESSAGE value="refactor: exercicio 4 e 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: exercicio 4 e 5" />
   </component>
 </project>
